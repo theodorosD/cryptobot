@@ -1,0 +1,2 @@
+# cryptobot
+Vibe Trading Bot
